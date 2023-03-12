@@ -1,0 +1,10 @@
+matplotlib==3.5.3
+scikit_learn==1.2.1
+
+
+rdkit
+moralis
+
+
+plotly==5.13.0
+ply==3.11
